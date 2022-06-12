@@ -1,0 +1,7 @@
+print('สวัสดี ไพทอน')
+print('input data')
+name = input("please input your name : ")
+lname = input("Please input your last name : ")
+age = input("Please input yur age : ")
+print("=============================")
+print(name,'',lname,'','age',age)
